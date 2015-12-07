@@ -1,0 +1,16 @@
+# index首页 - 游戏特色
+
+# 新手指南
+- img: /img/features/feature_1.jpg
+  title: 新手指南
+  category: guid
+
+# 特色系统
+- img: /img/features/feature_2.jpg
+  title: 特色系统
+  category: feature
+
+# 特色系统
+- img: /img/features/feature_3.jpg
+  title: 系统介绍
+  category: introduce

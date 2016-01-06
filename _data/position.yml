@@ -1,8 +1,8 @@
 # index首页 - 广告位图片
 # ps: 为了不影响页面布局，本配置项如果数量大于2，将仅展示前2条内容
 - img: /img/position/pos_4.jpg
-  url: http://www.baidu.com
+  url: http://diaochan.13yx.com
 - img: /img/position/pos_5.jpg
-  url: http://www.baidu.com
+  url: http://diaochan.13yx.com
 - img: /img/position/pos_5.jpg
-  url: http://www.baidu.com
+  url: http://diaochan.13yx.com
